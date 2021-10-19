@@ -1,10 +1,10 @@
 ---
 Category: 'docker'
-Description: 'Template Docker repository for tool_name'  # Description of why the repository exists
-Maintainers: ['YourName@mednet.ucla.edu']  # email address of maintainers
-Contributors: ['Your Name']  # Full names of contributors
+Description: 'Docker repository for Strelka2'  # Description of why the repository exists
+Maintainers: ['maotian@mednet.ucla.edu']  # email address of maintainers
+Contributors: ['Mao Tian']  # Full names of contributors
 Languages: ['Dockerfile']  # programming languages used
-Tools: ['tool_name']  # Name of the tool(s) used in the Dockerfile
-Version: ['X.X.X']  # Tool version number
-Purpose of tool: ''  # Description of what this tool does
-References: ''  # is the tool/dependencies published, is there a confluence page
+Tools: ['Strelka2']  # Name of the tool(s) used in the Dockerfile
+Version: ['2.9.10']  # Tool version number
+Purpose of tool: 'Strelka calls somatic and germline small variants from mapped sequencing reads'  # Description of what this tool does
+References: 'Kim, S., Scheffler, K., Halpern, A.L. et al. Strelka2: fast and accurate calling of germline and somatic variants. Nat Methods 15, 591–594 (2018). https://doi.org/10.1038/s41592-018-0051-x'  # is the tool/dependencies published, is there a confluence page

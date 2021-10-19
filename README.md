@@ -1,7 +1,7 @@
-# docker-tool_name
+# docker-Strelka2
 Template Repository for the Boutros Lab Dockerfiles based on the bl-base image.
 
-The bl-base image is located in the Boutros Lab Docker Hub repo: https://hub.docker.com/repository/docker/blcdsdockerregistry/bl-base
+The Strelka2 image is located in the Boutros Lab Docker Hub repo: https://hub.docker.com/repository/docker/blcdsdockerregistry/strelka2
 
 # Documentation
 Docker introduction [here](https://confluence.mednet.ucla.edu/display/BOUTROSLAB/Docker+Introduction)
@@ -14,16 +14,14 @@ Docker image versioning standard [here](https://confluence.mednet.ucla.edu/displ
 # Version
 | Tool | Version |
 |------|---------|
-|tool_name| X.X.X|
-|tool_name_2|X.X.X|
+|Strelka2| 2.9.10|
 
 
 ---
 
 ## References
 
-1. Tool specific references can be listed here
-
+1. Kim, S., Scheffler, K., Halpern, A.L. et al. Strelka2: fast and accurate calling of germline and somatic variants. Nat Methods 15, 591–594 (2018). https://doi.org/10.1038/s41592-018-0051-x
 ---
 
 ## License
