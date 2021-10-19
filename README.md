@@ -1,5 +1,5 @@
 # docker-Strelka2
-Template Repository for the Boutros Lab Dockerfiles based on the bl-base image.
+Strelka2 is a tool for fast and accurate calling of germline and somatic variants. 
 
 The Strelka2 image is located in the Boutros Lab Docker Hub repo: https://hub.docker.com/repository/docker/blcdsdockerregistry/strelka2
 
