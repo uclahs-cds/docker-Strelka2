@@ -1,8 +1,8 @@
-FROM blcdsdockerregistry/bl-base:1.0.0 AS builder
+FROM blcdsdockerregistry/bl-base:1.1.0 AS builder
 
 # Use conda to install tools and dependencies into /usr/local
 ARG Strelka2_VERSION=2.9.10
-RUN conda create -qy -p /usr/local \
+RUN mamba create -qy -p /usr/local \
     -c bioconda \
     -c conda-forge \
     strelka==${Strelka2_VERSION}
