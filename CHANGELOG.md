@@ -8,12 +8,7 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ---
 
 ## [Unreleased]
-### Added
-- Create the docker repo: blcdsdockerregistry/strelka2:2.9.10.
 
----
-
-## [1.0.0] - YYYY-MM-DD
 ### Added
 - For new features.
 - Added item 1.
@@ -35,3 +30,9 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ### Security
 - In case of vulnerabilities.
+
+---
+
+## [2.9.10] - 2021-10-28
+### Added
+- Create the docker repo: blcdsdockerregistry/strelka2:2.9.10.
