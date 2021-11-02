@@ -4,7 +4,7 @@ Strelka2 is a tool for fast and accurate calling of germline and somatic variant
 The Strelka2 image is located in the Boutros Lab Docker Hub repo: https://hub.docker.com/repository/docker/blcdsdockerregistry/strelka2
 
 # Documentation
-The main github page of strelka2 can be found [here](https://github.com/Illumina/strelka). For execution and run options, please consult the strelka2 user manual is [here](https://github.com/Illumina/strelka/blob/master/docs/userGuide/README.md).
+The main github page of Strelka2 can be found [here](https://github.com/Illumina/strelka). For execution and run options, please consult the Strelka2 user manual is [here](https://github.com/Illumina/strelka/blob/master/docs/userGuide/README.md).
 
 # Version
 | Tool | Version |
