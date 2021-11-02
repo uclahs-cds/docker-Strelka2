@@ -22,9 +22,9 @@ The main github page of strelka2 can be found [here](https://github.com/Illumina
 
 Author: Mao Tian, Caden Bugh.
 
-Docker-Strelka2 is licensed under the GNU General Public License version 2. See the file LICENSE for the terms of the GNU GPL license.
+docker-Strelka2 is licensed under the GNU General Public License version 2. See the file LICENSE for the terms of the GNU GPL license.
 
-Docker-Strelka2 is a tool for fast and accurate calling of germline and somatic variants
+docker-Strelka2 is a tool for fast and accurate calling of germline and somatic variants
 
 Copyright (C) 2021 University of California Los Angeles ("Boutros Lab") All rights reserved.
 
