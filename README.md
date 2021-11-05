@@ -1,5 +1,5 @@
 # docker-Strelka2
-Strelka2 is a tool for fast and accurate calling of germline and somatic variants. To execute Strelka2, a matched normal sample, a `normal.bam`, and a reference fasta are needed to distinguish both germline variation and sequencing artifacts. The output of Strelka2 includes variant predicions, `.vcf.gz` files, and statistics, `.tsv` files. For more input requirements and output file formats, please visit [Strelka2 user guide](https://github.com/Illumina/strelka/blob/v2.9.x/docs/userGuide/README.md).
+Strelka2 is a tool for fast and accurate calling of germline and somatic variants. To execute Strelka2, a matched normal sample, a `normal.bam`, and a reference fasta are needed to distinguish both germline variation and sequencing artifacts. The output of Strelka2 includes variant predictions, `.vcf.gz` files, and statistics, `.tsv` files. For more input requirements and output file formats, please visit [Strelka2 user guide](https://github.com/Illumina/strelka/blob/v2.9.x/docs/userGuide/README.md).
 
 The Strelka2 image is located in the Boutros Lab Docker Hub repo: https://hub.docker.com/repository/docker/blcdsdockerregistry/strelka2
 
